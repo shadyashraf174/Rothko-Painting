@@ -1,6 +1,7 @@
 # **Rothko Painting**
-#### learned it from freecodecamp
-
+#### learned it from [freeCodeCamp](https://www.freecodecamp.org/)
+###### Every HTML element is its own box – with its own spacing and a border. This is called the Box Model. In this course, you'll use CSS and the Box Model to create your own Rothko-style rectangular art pieces.
+---
 ### **Overview**  
 The **Rothko Painting Project** is an artistic recreation inspired by the abstract works of Mark Rothko. This project demonstrates the use of HTML and CSS to build a layered design that mimics the appearance of Rothko’s iconic paintings. It focuses on layout structuring, color blending, and subtle visual effects like blur and shadows.
 
@@ -138,7 +139,7 @@ The `styles.css` file is responsible for the artistic styling of the painting.
 1. **Clone the Project**:
    ```bash
    git clone https://github.com/shadyashraf174/Rothko-Painting
-   cd rothko-painting
+   cd Rothko-Painting
    ```
 
 2. **Run the Project**:
